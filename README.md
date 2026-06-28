@@ -68,7 +68,6 @@ smart-mcq-solver/
 │   └── final-report.pdf
 │
 ├── requirements.txt
-├── .gitignore
 └── README.md
 
 ```
