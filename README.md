@@ -4,7 +4,7 @@
 
 - **Name:** Sourav Debnath
 - **Student ID:** 23f1001907
-- **Course:** Introduction to Deep Learning and Generative AI (BSDA2001P)
+- **Course:** Deep Learning and Generative AI Project
 - **Institution:** Indian Institute of Technology Madras
 
 ---
